@@ -1,0 +1,9 @@
+# Ignoring all the C compiled binaries
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
